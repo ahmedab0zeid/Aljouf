@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 16 12">
+  <g id="Group_99781" data-name="Group 99781" transform="translate(-68.188 -561.401)">
+    <g id="Rectangle_25744" data-name="Rectangle 25744" transform="translate(68.188 561.401)" fill="none" stroke="#02814c" stroke-width="0.75">
+      <rect width="16" height="12" rx="4" stroke="none"/>
+      <rect x="0.375" y="0.375" width="15.25" height="11.25" rx="3.625" fill="none"/>
+    </g>
+    <g id="Rectangle_25745" data-name="Rectangle 25745" transform="translate(79.188 565.901)" fill="none" stroke="#02814c" stroke-width="0.75">
+      <path d="M1.5,0H5A0,0,0,0,1,5,0V3A0,0,0,0,1,5,3H1.5A1.5,1.5,0,0,1,0,1.5v0A1.5,1.5,0,0,1,1.5,0Z" stroke="none"/>
+      <path d="M1.5.375H4.625a0,0,0,0,1,0,0v2.25a0,0,0,0,1,0,0H1.5A1.125,1.125,0,0,1,.375,1.5v0A1.125,1.125,0,0,1,1.5.375Z" fill="none"/>
+    </g>
+    <path id="Path_70995" data-name="Path 70995" d="M56.185,358.509c0,.133.075.241.168.241h4.937c.093,0,.168-.108.168-.241s-.075-.241-.168-.241H56.353C56.26,358.268,56.185,358.376,56.185,358.509Z" transform="translate(14.231 206.472)" fill="#02814c"/>
+  </g>
+</svg>
